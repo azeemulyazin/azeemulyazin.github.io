@@ -4234,6 +4234,10 @@ form textarea:required:valid {
   color: var(--t-bright);
 
 }
+.contact-lines__item .text-center a{
+  color: var(--t-bright);
+text-decoration: underline;
+}
 
 
 /* ------------------------------------------------*/
